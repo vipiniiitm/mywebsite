@@ -1,0 +1,127 @@
+/* Social Media Icon Styling */
+#youTubeIcon{
+ color:rgb(187, 0, 0);
+}
+
+#twitterIcon{
+  color: rgb(0, 172, 237);
+}
+
+#facebookIcon{
+  color:rgb(59,89,163);
+}
+
+#githubIcon{
+  color:rgb(102,43,129);
+}
+
+#linkedinIcon{
+  color:rgb(0,127,178);
+}
+
+#instagramIcon{
+  color:rgb(81, 127, 164);
+}
+.block{
+  background-color:black;
+  opacity:.8;
+  padding:10px;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:10px;
+}
+
+i{
+  color:white;
+}
+.nav-pills{
+  font-size:1.7em;
+  background-color:black;
+  margin-bottom:10%;
+}
+
+body{
+  background-color:black;
+  font-family:Lobster;
+  color:white;
+}
+h1{
+  padding:0;
+  margin-top:0px;
+  font-size:5.0em;
+  padding-top:0%;
+}
+
+.btn-default{
+  background-color:black;
+  border-color:black;
+  color:#337ab7;
+  font-size:1.7em;
+  margin-top:1%;
+}
+
+.pageOne{
+background:url("https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-0.3.5&q=80&fm=jpg&s=ea7623efb1f5115a216e43130cf1f524");
+ background-size:cover;
+    padding-bottom:10%;
+}
+
+.pageTwo{
+ background:url("https://images.unsplash.com/uploads/14116941824817ba1f28e/78c8dff1?ixlib=rb-0.3.5&q=80&fm=jpg&s=1c0460c049c18ea66de441e47a4c64b4");
+  background-size:cover;
+   padding-bottom:10%;
+  padding-top:5%;
+}
+
+.pageThree{
+  background:url(
+"https://images.unsplash.com/photo-1445905595283-21f8ae8a33d2?ixlib=rb-0.3.5&q=80&fm=jpg&s=8c9caae13ddb19a46c84c04be34683c1");
+  background-size:cover;
+   padding-bottom:10%;
+  padding-top:5%;
+}
+
+.pageFour{
+  background:url("https://images.unsplash.com/photo-1425141708895-60ba4a72e556?ixlib=rb-0.3.5&q=80&fm=jpg&s=a4f66a2a0d98f71aa4456189454c987e");
+  background-size:cover;
+ padding-bottom:5%;
+  padding-top:5%;
+}
+.footer p{
+  font-size:15px;
+}
+p{
+  font-size:2.2em;
+}.pItems {
+  height: 250px;
+  border-radius:50%;
+}
+
+.paddingBTN{
+   width:200px;
+  margin-bottom:25px;
+}
+
+.paddingTop{
+  
+ padding-top:2%;
+ padding-bottom:2%;
+
+}
+
+.footer{
+  background-color:black;
+}
+
+.footer a{
+    vertical-align:middle;
+}
+.me{
+  height:400px;
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:50%
+}
+
